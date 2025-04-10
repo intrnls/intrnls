@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/intrnlss" target="blank"><img src="https://img.shields.io/twitter/follow/intrnlss?logo=twitter&style=for-the-badge" alt="intrnlss" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on **Minecraft Network**
+<p align="center">- 🔭 I’m currently working on __Minecraft Network__
 
 <p align="center">- 🌱 I’m currently learning **Networking & Databases**
 
