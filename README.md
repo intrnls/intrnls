@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Internals</h1>
-<h3 align="center">Cybersecurity Student but doing dev on the side!</h3>
+<h3 align="center">Cyber Security and Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=intrnls&label=Profile%20views&color=0e75b6&style=flat" alt="intrnls" /> </p>
 
 <p align="center"> <a href="https://twitter.com/intrnlss" target="blank"><img src="https://img.shields.io/twitter/follow/intrnlss?logo=twitter&style=for-the-badge" alt="intrnlss" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on building a Minecraft Network
+<p align="center">- 🔭 I’m currently working on Moraband Studios
 
-<p align="center">- 🌱 I’m currently learning: Networking & Databases
+<p align="center">- 🌱 Expanding studio development and portfolio 
 
-<p align="center">- 💬 Ask me about Minecraft~
+<p align="center">- 💬 Ask me about anything~
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
